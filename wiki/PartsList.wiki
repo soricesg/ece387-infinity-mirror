@@ -1,4 +1,4 @@
-#summary One-A list of all the parts I used, along with prices and where I purchased them
+#summary A list of all the parts I used, along with prices and where I purchased them
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_

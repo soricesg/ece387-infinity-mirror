@@ -1,0 +1,11 @@
+#summary Photos and Video of the completed infinity mirror
+
+= Introduction =
+While this particular project may always be a work in progress for myself, here is a look at how the project looks as completed for my final demo for class. 
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

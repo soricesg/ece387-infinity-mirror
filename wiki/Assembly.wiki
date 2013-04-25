@@ -8,6 +8,12 @@ Test arduino, LED strip, LPD8806 library and supplied test code and the power su
 Test Ping ultrasonic distance sensor ensuring that it returns an accurate distance.
 Test toggle switches ensuring that the arduino recognizes 00, 01, 10, and 11.
 
+= Assemble the VU Meter =
+
+If you chose to order the VU Meter from vumeterkit.com, you should have everything you need in the kit except for the power supply and any audio hook up wires. You can assemble this based on the instructions provided [http://vumeterkit.com/assembly/ here].
+
+Once you have it all assembled, I would suggest hooking up an audio source and power supply and ensuring it lights up as expected. (Yay more testing!)
+
 = Assemble the enclosure =
 
-Since nothing else can be done until the enclosure is put together and secure, I would suggest doing this first. Use the acrylic cement purchased from Tapplastics and put the edges and rear (standard) mirror together. Follow this video on [http://www.tapplastics.com/product_info/videos/how_to_glue_acrylic how to cement acrylic together].
+Use the acrylic cement purchased from Tapplastics and put the edges and rear (standard) mirror together. Follow this video on [http://www.tapplastics.com/product_info/videos/how_to_glue_acrylic how to cement acrylic together]. Ensure that you leave the two way mirror off, that way you can still place the led strip and any other internal electronics if you chose to add to my design. 

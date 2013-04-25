@@ -2,12 +2,12 @@
 
 = Introduction =
 
-Add your content here.
+First things first, make sure after you have recieved all of your electronics that you wire them up in a controlled environment and test them. My suggestion would be as follows:
 
+Test arduino, LED strip, LPD8806 library and supplied test code and the power supply. 
+Test Ping ultrasonic distance sensor ensuring that it returns an accurate distance.
+Test toggle switches ensuring that the arduino recognizes 00, 01, 10, and 11.
 
-= Details =
+= Assemble the enclosure =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Since nothing else can be done until the enclosure is put together and secure, I would suggest doing this first. Use the acrylic cement purchased from Tapplastics and put the edges and rear (standard) mirror together. Follow this video on [http://www.tapplastics.com/product_info/videos/how_to_glue_acrylic how to cement acrylic together].

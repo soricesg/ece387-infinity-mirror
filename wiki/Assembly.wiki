@@ -20,6 +20,8 @@ Use the acrylic cement purchased from Tapplastics and put the edges and rear (st
 
 Once you've got the enclosure assembled short of the two way mirror, you're now ready to place your (tested) led strip around internal edges of the enclosure, as close to the rear mirror as possible. I used silicon to secure the strip in place, but feel free to use whatever adhesive you prefer. At this point you can now cement the front mirror into place, however before doing so I suggest once again wiring up the led strip to ensure that nothing went wrong because once the front mirror is cemented into place, you will have a very hard time getting access to the led strip again. 
 
+http://ece387-infinity-mirror.googlecode.com/svn/wiki/images/IMG_0479.jpg
+
 = Structural Support, VU Meter and Ping Placement = 
 
 Once the enclosure is ready to go, cut four pieces of square acrylic tube to be the height of the enclosure. Two will be used externally to house the LEDs for the VU Meter, the other two will be used internally as structural supports. 

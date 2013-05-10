@@ -1,4 +1,4 @@
-#summary Photos and Video of the completed infinity mirror
+#summary Video of the completed infinity mirror
 
 
 = Video =
@@ -9,8 +9,3 @@ Youtube video of the Infinity Mirror (VU Meter not working yet):
 <wiki:video url="http://www.youtube.com/watch?v=9gyILKIPxlE"/>
 
 
-
-
-= Images = 
-
-Some photos of the finished product:

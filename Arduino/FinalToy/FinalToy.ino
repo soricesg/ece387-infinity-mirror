@@ -15,7 +15,7 @@ unsigned int inches;
 int delayTime;
 int brightness;
 
-//Switch pins for controling the mode of the lights
+//Switch pins for controlling the mode of the lights
 int switchOne = 5;
 int switchTwo = 6;
 

@@ -2,7 +2,7 @@
 
 = Introduction =
 
-First things first, make sure after you have recieved all of your electronics that you wire them up in a controlled environment and test them. My suggestion would be as follows:
+First things first, make sure after you have received all of your electronics that you wire them up in a controlled environment and test them. My suggestion would be as follows:
 
 Test arduino, LED strip, LPD8806 library and supplied test code and the power supply. 
 Test Ping ultrasonic distance sensor ensuring that it returns an accurate distance.
